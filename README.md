@@ -14,3 +14,18 @@ The analysis uses SQL to investigate real-world business questions around **cust
 The dataset used in this project is publicly available on Kaggle:
 
 **[Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)**
+
+## Business Problem
+
+E-commerce businesses need to understand what drives revenue, which customers and sellers contribute the most value, and where operational issues may affect customer experience.
+
+This project focuses on answering practical business questions such as:
+
+- Which customers generate the highest spending?
+- How important are repeat customers to overall revenue?
+- Which product categories and sellers drive sales?
+- How concentrated is revenue across sellers and geographic regions?
+- Are customers returning after their first purchase?
+- Which states have longer delivery times or higher late-delivery rates?
+
+The goal is to use the available transaction data to identify meaningful patterns that can help the business understand its customers, revenue drivers, and operational performance.
