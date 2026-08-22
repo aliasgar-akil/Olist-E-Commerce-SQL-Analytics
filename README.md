@@ -127,12 +127,6 @@ Shows the distribution of customers based on whether they made a single purchase
 
 <img width="262" height="69" alt="image" src="https://github.com/user-attachments/assets/0fc93705-9fc7-4c3b-8a43-310290f453b9" />
 
-#### Top Customers by Number of Orders
-
-Highlights the customers with the highest number of orders.
-
-<img width="391" height="241" alt="image" src="https://github.com/user-attachments/assets/59fa3014-187c-4f98-a4dc-5da3c1508c46" />
-
 
 ### Product & Category Analysis
 
