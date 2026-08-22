@@ -93,3 +93,87 @@ The checks also distinguished expected missing values from potential data-qualit
 Overall, the validation confirmed that the data relationships and key business fields were suitable for further analysis.
 
 **File:** `03_Data_Validation.sql`
+
+## Exploratory Analysis
+
+The exploratory analysis provides an initial understanding of the Olist marketplace by examining overall sales and order activity, customer behavior, product and category performance, payment patterns, and delivery performance. The following sections highlight selected results from this analysis.
+
+### Order & Sales Overview
+
+#### Total Orders, Order Items, Sales, and Freight
+
+Provides an overview of the overall marketplace activity and sales generated.
+
+<img width="454" height="51" alt="image" src="https://github.com/user-attachments/assets/994242dd-b52d-49dd-b5d7-c8ce667e0512" />
+
+#### Orders and Sales by Year
+
+Shows how order volume and sales changed across the years covered by the dataset.
+
+<img width="310" height="94" alt="image" src="https://github.com/user-attachments/assets/7d80fac5-4c02-44f1-9e75-a54c9e612cf0" />
+
+
+### Customer Analysis
+
+#### Customer Distribution by State
+
+Highlights the Brazilian states with the largest customer bases.
+
+<img width="266" height="239" alt="image" src="https://github.com/user-attachments/assets/92e59167-4137-4b0d-8441-d1ce8c7b9124" />
+
+#### One-Time vs Repeat Customers
+
+Shows the distribution of customers based on whether they made a single purchase or returned for additional purchases.
+
+<img width="262" height="69" alt="image" src="https://github.com/user-attachments/assets/0fc93705-9fc7-4c3b-8a43-310290f453b9" />
+
+#### Top Customers by Number of Orders
+
+Highlights the customers with the highest number of orders.
+
+<img width="391" height="241" alt="image" src="https://github.com/user-attachments/assets/59fa3014-187c-4f98-a4dc-5da3c1508c46" />
+
+
+### Product & Category Analysis
+
+#### Top Product Categories by Sales
+
+Highlights the product categories generating the highest sales.
+
+<img width="285" height="241" alt="image" src="https://github.com/user-attachments/assets/e2255585-52c6-4f98-a7c3-333d9544b2ee" />
+
+#### Top Product Categories by Items Sold
+
+Shows which product categories have the highest sales volume based on the number of items sold.
+
+<img width="276" height="242" alt="image" src="https://github.com/user-attachments/assets/083264a4-6f17-4b25-9f18-7701e450e7aa" />
+
+
+### Seller Analysis
+
+#### Seller Distribution by State
+
+Highlights the states with the largest seller presence.
+
+<img width="220" height="239" alt="image" src="https://github.com/user-attachments/assets/30db60e5-b9dd-4922-a675-0f9de8c2b5c1" />
+
+
+### Payment Analysis
+
+#### Payment Method Distribution
+
+Shows the number of payment records and total payment value for each payment method.
+
+<img width="419" height="112" alt="image" src="https://github.com/user-attachments/assets/c56386cb-9a9e-4ca3-bda0-436aeea8d6ca" />
+
+
+### Delivery Analysis
+
+#### Average Delivery Time and Late Delivery Rate
+
+Shows the average number of days taken to deliver orders and the percentage delivered after the estimated date.
+
+<img width="300" height="48" alt="image" src="https://github.com/user-attachments/assets/8409eda0-5640-4143-a415-ee5c9228b34b" />
+
+
+**File:** `04_Exploratory_Data_Analysis.sql`
