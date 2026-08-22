@@ -70,3 +70,26 @@ The project follows a structured workflow, starting with database creation and d
 04 Exploratory Analysis
         ↓
 05 Business Analysis
+```
+
+## Data Validation
+
+Before moving to exploratory and business analysis, the imported data was validated to ensure that it was complete, consistent, and suitable for analysis.
+
+The validation checks covered:
+
+- Row counts across all tables
+- Missing values in key business fields
+- Negative and invalid product, order item, and payment values
+- Order and delivery date consistency
+- Product category translation coverage
+- Valid categorical values such as order status, payment type, and state
+- Order item consistency and items per order
+- Customer identity consistency between `customer_id` and `customer_unique_id`
+- Referential integrity between customers, orders, products, sellers, and payments
+
+The checks also distinguished expected missing values from potential data-quality issues. For example, missing delivery dates were reviewed against order status, while untranslated product categories were identified and retained as part of the source data.
+
+Overall, the validation confirmed that the data relationships and key business fields were suitable for further analysis.
+
+**File:** `03_Data_Validation.sql`
