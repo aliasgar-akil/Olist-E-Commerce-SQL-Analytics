@@ -50,13 +50,13 @@ The raw CSV files are not included in this repository due to their file size. Th
 
 The project follows a structured workflow, starting with database creation and data import, followed by data validation, exploratory analysis, and business-focused analysis.
 
-| Stage | Description |
-|---|---|
-| **01. Database Setup** | Create the database, tables, and relationships required for analysis. |
-| **02. Data Import** | Import the Olist datasets into the database. |
-| **03. Data Validation** | Perform data quality and consistency checks to ensure the data is suitable for analysis. |
-| **04. Exploratory Analysis** | Explore customers, orders, products, sellers, payments, and delivery patterns. |
-| **05. Business Analysis** | Answer real-world business questions and identify key business insights. |
+| Stage | File | Description |
+|---|---|---|
+| **01. Database Setup** | `01_Database_Setup.sql` | Creates the database, tables, and relationships required for analysis. |
+| **02. Data Import** | `02_Data_Import.sql` | Imports the Olist datasets into the database. |
+| **03. Data Validation** | `03_Data_Validation.sql` | Performs data quality and consistency checks to ensure the data is suitable for analysis. |
+| **04. Exploratory Analysis** | `04_Exploratory_Data_Analysis.sql` | Explores customers, orders, products, sellers, payments, and delivery patterns. |
+| **05. Business Analysis** | `05_Business_Analysis.sql` | Answers real-world business questions and identifies key business insights. |
 
 ### Workflow
 
