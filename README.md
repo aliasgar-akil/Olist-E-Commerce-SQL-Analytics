@@ -169,6 +169,6 @@ Shows the average number of days taken to deliver orders and the percentage deli
 
 <img width="300" height="48" alt="image" src="https://github.com/user-attachments/assets/8409eda0-5640-4143-a415-ee5c9228b34b" />
 
-<br>
+<br><br>
 
 **File:** `04_Exploratory_Data_Analysis.sql`
