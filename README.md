@@ -45,3 +45,28 @@ The project uses the **Brazilian E-Commerce Public Dataset by Olist**, containin
 | `product_category_translation` | Product category translations | 71 |
 
 The raw CSV files are not included in this repository due to their file size. The dataset can be downloaded from the [Kaggle source](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) and imported using the provided SQL scripts.
+
+## Project Workflow
+
+The project follows a structured workflow, starting with database creation and data import, followed by data validation, exploratory analysis, and business-focused analysis.
+
+| Stage | Description |
+|---|---|
+| **01. Database Setup** | Create the database, tables, and relationships required for analysis. |
+| **02. Data Import** | Import the Olist datasets into the database. |
+| **03. Data Validation** | Perform data quality and consistency checks to ensure the data is suitable for analysis. |
+| **04. Exploratory Analysis** | Explore customers, orders, products, sellers, payments, and delivery patterns. |
+| **05. Business Analysis** | Answer real-world business questions and identify key business insights. |
+
+### Workflow
+
+```text
+01 Database Setup
+        ↓
+02 Data Import
+        ↓
+03 Data Validation
+        ↓
+04 Exploratory Analysis
+        ↓
+05 Business Analysis
