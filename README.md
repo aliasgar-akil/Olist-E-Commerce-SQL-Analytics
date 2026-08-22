@@ -30,3 +30,18 @@ The database consists of seven related tables covering the main areas of the Oli
 ### Entity-Relationship Diagram
 <img width="795" height="822" alt="ER_Diagram" src="https://github.com/user-attachments/assets/5c227512-66a7-4f92-b897-858193f595d3" />
 
+## Dataset
+
+The project uses the **Brazilian E-Commerce Public Dataset by Olist**, containing approximately 100,000 orders and related information across customers, orders, products, sellers, payments, and product categories.
+
+| Table | Description | Rows |
+|---|---|---:|
+| `customers` | Customer information and location | 99,441 |
+| `orders` | Order details, status, and timestamps | 99,441 |
+| `order_items` | Products included in each order | 112,650 |
+| `order_payments` | Payment details for each order | 103,886 |
+| `products` | Product details and categories | 32,951 |
+| `sellers` | Seller information and location | 3,095 |
+| `product_category_translation` | Product category translations | 71 |
+
+The raw CSV files are not included in this repository due to their file size. The dataset can be downloaded from the [Kaggle source](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) and imported using the provided SQL scripts.
