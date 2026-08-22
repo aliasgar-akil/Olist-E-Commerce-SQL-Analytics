@@ -17,15 +17,16 @@ The dataset used in this project is publicly available on Kaggle:
 
 ## Business Problem
 
-E-commerce businesses need to understand what drives revenue, which customers and sellers contribute the most value, and where operational issues may affect customer experience.
+Olist operates a large e-commerce marketplace with customers, sellers, products, orders, payments, and deliveries across Brazil. With data coming from multiple parts of the business, it can be challenging to understand what drives revenue, which customers and sellers contribute the most value, how effectively customers are being retained, and where delivery performance may affect the customer experience. This project analyzes the available transaction data to identify meaningful patterns and uncover opportunities to improve customer value, revenue performance, and operational efficiency.
 
-This project focuses on answering practical business questions such as:
+## Project Objective
 
-- Which customers generate the highest spending?
-- How important are repeat customers to overall revenue?
-- Which product categories and sellers drive sales?
-- How concentrated is revenue across sellers and geographic regions?
-- Are customers returning after their first purchase?
-- Which states have longer delivery times or higher late-delivery rates?
+The objective of this project is to use SQL to analyze Olist's e-commerce data, identify key patterns in customer and business performance, and uncover insights that can support better decisions around revenue, customer retention, seller performance, and delivery operations.
 
-The goal is to use the available transaction data to identify meaningful patterns that can help the business understand its customers, revenue drivers, and operational performance.
+## Database Schema
+
+The database consists of seven related tables covering the main areas of the Olist marketplace, including customers, orders, products, sellers, payments, and product categories, as demonstrated in the following **Entity-Relationship Diagram**.
+
+### Entity-Relationship Diagram
+<img width="795" height="822" alt="ER_Diagram" src="https://github.com/user-attachments/assets/5c227512-66a7-4f92-b897-858193f595d3" />
+
