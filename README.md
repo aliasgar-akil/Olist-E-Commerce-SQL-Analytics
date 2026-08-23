@@ -307,3 +307,14 @@ These differences suggest that delivery performance should be looked at more clo
 Across all years combined, **Q2 contributes 30.36% of total revenue**, making it the strongest quarter, while **Q4 contributes 18.19%**.
 
 This seasonal pattern can help the business plan **inventory, marketing campaigns, seller activity, and operational capacity** according to periods of higher and lower demand.
+
+## SQL Techniques Demonstrated
+
+- JOINs
+- Aggregations
+- CTEs
+- Subqueries
+- CASE Statements
+- Window Functions (`LAG`, `RANK`, `DENSE_RANK`, `NTILE`, `SUM() OVER`)
+- Date & Time Functions
+- NULL Handling (`COALESCE`, `NULLIF`)
