@@ -270,13 +270,13 @@ The results show a strong geographic concentration of revenue, with Sao Paulo, R
 
 ## Key Business Insights
 
-The analysis highlights several areas that can influence Olist's growth, customer value, and operational performance. These findings can help stakeholders prioritize areas for further investigation and identify opportunities to strengthen the marketplace.
+The analysis highlights key areas affecting Olist's growth, customer value, and operational performance, helping identify opportunities for improvement and areas that need further attention.
 
 ### 1. Strengthen Customer Retention
 
 Only **3.18% of customers are repeat customers**, while **90.04% are classified as potentially churned based on 90 days of inactivity**. Repeat customers currently contribute **5.90% of total revenue**.
 
-This shows a clear opportunity to increase repeat purchases. The business could use **targeted campaigns, personalized recommendations, follow-up messages, and offers** to encourage inactive and existing customers to return.
+This shows a clear opportunity to increase repeat purchases. The business could use **targeted campaigns, personalized recommendations, follow-up messages, and offers** to encourage customers to return.
 
 ### 2. Protect Revenue From High-Performing Sellers
 
@@ -294,7 +294,7 @@ The business should continue to focus on these strong markets while also explori
 
 The largest revenue contribution comes from **Health & Beauty (9.38%)**, followed by **Watches & Gifts (8.98%)** and **Bed Bath Table (7.73%)**. The top five categories together account for approximately **40% of total revenue**.
 
-These categories are important revenue drivers and could receive greater attention through **better inventory availability, promotions, marketing, and seller growth**. At the same time, lower-performing categories can be reviewed to identify opportunities for improvement.
+These categories are important revenue drivers and could receive greater attention through **better inventory availability, promotions, and marketing**. At the same time, lower-performing categories can be reviewed to identify opportunities for improvement.
 
 ### 5. Address Regional Delivery Challenges
 
