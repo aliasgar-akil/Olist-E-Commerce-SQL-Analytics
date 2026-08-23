@@ -318,3 +318,22 @@ This seasonal pattern can help the business plan **inventory, marketing campaign
 - Window Functions (`LAG`, `RANK`, `DENSE_RANK`, `NTILE`, `SUM() OVER`)
 - Date & Time Functions
 - NULL Handling (`COALESCE`, `NULLIF`)
+
+
+## Repository Structure
+
+```text
+Olist-E-Commerce-SQL-Analytics/
+│
+├── 01_Database_Setup.sql
+├── 02_Data_Import.sql
+├── 03_Data_Validation.sql
+├── 04_Exploratory_Data_Analysis.sql
+├── 05_Business_Analysis.sql
+├── ER_Diagram.png
+└── README.md
+```
+
+## Author
+
+**Ali Asgar Baghdadwala**
