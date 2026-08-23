@@ -266,3 +266,44 @@ The results show a high concentration of revenue among the top-performing seller
 The results show a strong geographic concentration of revenue, with Sao Paulo, Rio de Janeiro, and Minas Gerais together contributing 62.56% of total revenue. Sao Paulo alone accounts for 37.47%, making the Southeast region a critical market for Olist's overall revenue performance.
 
 **File:** `05_Business_Analysis.sql`
+
+
+## Key Business Insights
+
+The analysis highlights several areas that can influence Olist's growth, customer value, and operational performance. These findings can help stakeholders prioritize areas for further investigation and identify opportunities to strengthen the marketplace.
+
+### 1. Strengthen Customer Retention
+
+Only **3.18% of customers are repeat customers**, while **90.04% are classified as potentially churned based on 90 days of inactivity**. Repeat customers currently contribute **5.90% of total revenue**.
+
+This shows a clear opportunity to increase repeat purchases. The business could use **targeted campaigns, personalized recommendations, follow-up messages, and offers** to encourage inactive and existing customers to return.
+
+### 2. Protect Revenue From High-Performing Sellers
+
+The **top 10% of sellers generate 67.56% of total revenue**, showing that marketplace revenue is highly concentrated among a relatively small group of sellers.
+
+These sellers play an important role in overall revenue, so maintaining strong relationships with them should be a priority. At the same time, helping other sellers grow could **reduce the business's reliance on a small group of top sellers**.
+
+### 3. Maintain Strength in Core Markets While Exploring New Regions
+
+**Sao Paulo, Rio de Janeiro, and Minas Gerais contribute 62.56% of total revenue**, making the Southeast region particularly important to Olist's overall performance.
+
+The business should continue to focus on these strong markets while also exploring **ways to increase sales in regions that currently contribute less revenue**, creating a more balanced revenue base.
+
+### 4. Prioritize High-Value Product Categories
+
+The largest revenue contribution comes from **Health & Beauty (9.38%)**, followed by **Watches & Gifts (8.98%)** and **Bed Bath Table (7.73%)**. The top five categories together account for approximately **40% of total revenue**.
+
+These categories are important revenue drivers and could receive greater attention through **better inventory availability, promotions, marketing, and seller growth**. At the same time, lower-performing categories can be reviewed to identify opportunities for improvement.
+
+### 5. Address Regional Delivery Challenges
+
+The longest average delivery times are concentrated in several Northern states, with **Roraima averaging 28.98 days**, followed by Amapa at **26.73 days** and Amazonas at **25.99 days**.
+
+These differences suggest that delivery performance should be looked at more closely in these regions. The business could review **delivery partners, shipping routes, and logistics operations** to identify ways to reduce delivery times and improve the customer experience.
+
+### 6. Use Seasonal Patterns in Revenue Planning
+
+Across all years combined, **Q2 contributes 30.36% of total revenue**, making it the strongest quarter, while **Q4 contributes 18.19%**.
+
+This seasonal pattern can help the business plan **inventory, marketing campaigns, seller activity, and operational capacity** according to periods of higher and lower demand.
